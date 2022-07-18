@@ -10,10 +10,16 @@
   },
   "dependencies": {
     "dotenv": "^16.0.1",
+    "movie-trailer": "^2.1.0",
     "next": "12.2.2",
     "next-auth": "^4.10.0",
+    "npm": "^8.14.0",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-player": "^2.10.1",
+    "react-youtube": "^9.0.3",
+    "youtube-search": "^1.1.6",
+    "youtube-search-api": "^1.1.0"
   },
   "devDependencies": {
     "eslint": "8.19.0",
